@@ -1,14 +1,18 @@
 
 number = float(input("Enter the monster number: "))
 flag = number % 2
-if number > 36:
-    print("ERROR")
+if number == 0:
+    print("Purple")
+elif flag >= 0:
+    print("The monster is black")
+else:
+    print("the monster is blue")
 
 # Monster 0 is purple.
 if number == 0:
     print("PURPLE")
     # For monsters 1 through 10, the odd-numbered monsters are blue and the even-numbered monsters are black.
-if flag == 0:
+if number == 0:
     print("The monster color is black")
 else:
     print("The monster color is blue")
