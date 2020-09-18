@@ -6,7 +6,7 @@ hoursWorked = float(input("How many hours did you work: "))
 
 if hoursWorked <= 40:
     pay = hoursWorked * hourlyRate
-elif hoursWorked > 40:
+if hoursWorked > 40:
     pay = ((hoursWorked-40)*hourlyRate*1.5)+hourlyRate*40
 
 print("The total weekly number is ", format(pay, '.2f'))
