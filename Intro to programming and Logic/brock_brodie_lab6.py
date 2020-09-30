@@ -8,7 +8,7 @@ for i in range(1, 11):
 status = True
 
 while status:
-    user_input = input(" Energizer Bunny keeps on going and going... " +
+    user_input = input(" Energizer Bunny keeps on going and going... \n" +
                        " would you like to print this again? ")
     if user_input == "yes":
         print(user_input)
