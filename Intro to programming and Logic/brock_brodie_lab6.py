@@ -13,8 +13,10 @@ status = True
 while status:
     user_input = input(" Energizer Bunny keeps on going and going... \n" +
                        " would you like to print this again? ")
+# As long as the status = true from user_input, the while loop will continue to run
     if user_input == "y":
         print(user_input)
+# If status = false then while loop will output end
     else:
         user_input == "n"
         should_run = False
