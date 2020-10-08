@@ -36,7 +36,7 @@ while 1:
             # printing the table
             for i in range(1, 13):
                 for j in range(x, y + 1):
-                    print("{:<3} x {:<2} = {:<3}".format(j, i,(i * j)), end =" ")
+                    print("{:<1} x {:<2} = {:<3}".format(j, i,(i * j)), end =" ")
                 print()
             print("\n")
             count += 1
