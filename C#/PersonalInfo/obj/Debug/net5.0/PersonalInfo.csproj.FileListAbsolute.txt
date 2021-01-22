@@ -1,0 +1,15 @@
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/bin/Debug/net5.0/PersonalInfo.deps.json
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/bin/Debug/net5.0/PersonalInfo.runtimeconfig.json
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/bin/Debug/net5.0/PersonalInfo.runtimeconfig.dev.json
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/bin/Debug/net5.0/PersonalInfo.dll
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/bin/Debug/net5.0/ref/PersonalInfo.dll
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/bin/Debug/net5.0/PersonalInfo.pdb
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.csprojAssemblyReference.cache
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.AssemblyInfoInputs.cache
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.AssemblyInfo.cs
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.dll
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/ref/PersonalInfo.dll
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.pdb
+/Users/brodiebrock/Vol-State-Courses/C#/PersonalInfo/obj/Debug/net5.0/PersonalInfo.genruntimeconfig.cache

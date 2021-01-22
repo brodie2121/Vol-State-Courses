@@ -1,0 +1,15 @@
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/bin/Debug/net5.0/Hello.deps.json
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/bin/Debug/net5.0/Hello.runtimeconfig.json
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/bin/Debug/net5.0/Hello.runtimeconfig.dev.json
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/bin/Debug/net5.0/Hello.dll
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/bin/Debug/net5.0/ref/Hello.dll
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/bin/Debug/net5.0/Hello.pdb
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.csprojAssemblyReference.cache
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.AssemblyInfoInputs.cache
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.AssemblyInfo.cs
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.csproj.CoreCompileInputs.cache
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.dll
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/ref/Hello.dll
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.pdb
+/Users/brodiebrock/Vol-State-Courses/C#/Hello/obj/Debug/net5.0/Hello.genruntimeconfig.cache
