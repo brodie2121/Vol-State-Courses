@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Sum of Numbers</title>
+    <script>
+      do {
+        do {
+          var theNumber = prompt("Enter first number", "10");
+          theNumber = parseInt(theNumber);
+
+          if (isNaN(theNumber) || theNumber < 1 || theNumber > 100) {
+            alert("Please enter a number between 1 and 100");
+          }
+        } while (isNaN(theNumber) || theNumber < 1 || theNumber > 100);
+        var sum = 0;
+
+        for (var counter = theNumber; counter >= 1; counter--) {
+          sum += counter;
+        }
+        alert(sum);
+        again = prompt("Do it again? ('y' for yes)");
+      } while (again == "y");
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Thanks for using the Sum of Numbers application!</h1>
+    </main>
+  </body>
+</html>
