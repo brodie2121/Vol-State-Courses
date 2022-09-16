@@ -16,7 +16,7 @@ from Categories c
 where (select count(*)
   from Products p2
   where p2.CategoryID = c.CategoryID) > 0
-order by 2 desc;
+order by [Number Of Products] desc;
 
 select 
 c.FirstName + ' ' + c.LastName as CustomerName,
