@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Income Tax Calculator</title>
+
+    <link rel="stylesheet" href="sales_tax.css" />
+
+    <script src="sales_tax.js"></script>
+  </head>
+
+  <body>
+    <main>
+      <h1>Sales Tax Calculator</h1>
+
+      <h3>Enter Subtotal and Tax Rate and click Calculate:</h3>
+
+      <label for="subtotal">Subtotal:</label>
+
+      <input type="number" id="subtotal" name="subtotal" /><br />
+
+      <label for="taxrate">TaxRate:</label>
+
+      <input type="number" id="taxrate" name="taxrate" /><br />
+
+      <label for="salestax">SalesTax:</label>
+
+      <input type="number" id="salestax" name="salestax" disabled /><br />
+
+      <label for="total">Total:</label>
+
+      <input type="number" id="total" name="total" disabled /><br />
+
+      <div class="button">
+        <input
+          type="button"
+          value="Calculate"
+          name="calculate"
+          id="calculate"
+        />
+
+        <input type="button" value="Clear" name="clear" id="clear" />
+      </div>
+    </main>
+  </body>
+</html>
