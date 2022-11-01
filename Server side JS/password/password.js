@@ -36,9 +36,9 @@ $(document).ready(() => {
       let stop = start + 1;
 
       // Using the "substring" method
-      let char = chars.substring(start, stop);
+      let pwdchar = chars.substring(start, stop);
 
-      password += char;
+      password += pwdchar;
     }
 
     // show newly generated password in the textbox After the end of FOR loop
